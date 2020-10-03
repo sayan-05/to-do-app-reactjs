@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+
+.main_div{
+    position: relative;
+    margin: auto;
+    height: 550px;
+    background-color: turquoise;
+    width: 440px;
+    border: thin;
+    border-color: black;
+    top: 20px;
+    border-radius: 8px;
+    
+}    
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+    background: none;
+    color: whitesmoke;
+    font-family: 'Exo', sans-serif;
+}
+
+.input{
+    background-color: white;
+    position: relative;
+    left: 103px;
+    top: 20px;
+    width: 230px;
+    text-align: center;
+    height: 30px;
+    border-radius: 20px;
+}
+
+.add_button{
+    position: relative;
+    left: 130px;
+    top: 28px;
+    border-radius: 15px;
+    padding: 0.5px;
+    background-color: yellow;
+}
+.add_button:hover{
+    background-color: rgb(244, 205, 252);
+    cursor: pointer;
+}
+
+.add_button:active{
+    box-shadow: 0 2px rgba(55, 52, 52, 0.974);
+    transform: translateY(2px);
+}
+
+
+

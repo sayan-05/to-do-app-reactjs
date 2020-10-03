@@ -1,0 +1,26 @@
+li{
+    position: relative;
+    top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    color: rgb(249, 253, 0);
+    font-weight: bolder;
+}
+
+.delete_icon{
+    position: relative;
+    top: 25px;
+    left: 120px;
+    background-color: rgb(242, 19, 19);
+    border-radius: 15px;
+}
+
+.delete_icon:hover{
+    background-color: rgb(188, 187, 243);
+    cursor: pointer;
+}
+
+.delete_icon:active{
+    box-shadow: 0 2px rgba(55, 52, 52, 0.974);
+    transform: translateY(2px);
+}
