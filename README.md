@@ -1,1 +1,1 @@
-A to-do-app made using the javascript library React js.It is a begineer project and to only focus on concept building I have used less styling.THe page is not responsive and is suitable only for pc and laptops. 
+A to-do-app made using the javascript library React js.It is a begineer project and to only focus on concept building I have used less styling.The page is not responsive and is suitable only for pc and laptops. 
